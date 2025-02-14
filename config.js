@@ -71,7 +71,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://drive.google.com/file/d/1GX2HwXcgl44HTwYX4tGKnu36MFkcXBcI/view?usp=sharing", // Your love song 🎶
+        musicUrl: "https://youtu.be/4dnpcLnObw4", // Your love song 🎶
         startText: "🎵 Set the mood",
         stopText: "🔇 Pause our love song",
         volume: 0.6
