@@ -47,7 +47,7 @@ const CONFIG = {
         title: "My Heart Is Yours, Always & Forever! 🎉💝",
         message: "Now, come claim your prize—endless kisses and the biggest cuddle ever! 🤗💋",
         emojis: "🎁💖🤗💝💋❤️💕✨",
-        videoUrl: "https://www.youtube.com/shorts/CMEjfFE9MPY?feature=share" // Add your romantic video URL here
+         // Add your romantic video URL here
     },
 
     // Color scheme for a dreamy romantic theme
@@ -68,14 +68,7 @@ const CONFIG = {
     },
 
     // Background Music for romantic vibes
-    music: {
-        enabled: true,
-        autoplay: true,
-        musicUrl: "https://youtu.be/4dnpcLnObw4", // Your love song 🎶
-        startText: "🎵 Set the mood",
-        stopText: "🔇 Pause our love song",
-        volume: 0.6
-    }
+    
 };
 
 // Let the magic happen! 💘
