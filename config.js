@@ -21,7 +21,7 @@ const CONFIG = {
             text: "From the moment we met, my heart knew... Do you feel the same? 💕",
             yesBtn: "Every second of every day! 💖",
             noBtn: "I need more cuddles to decide! 😘",
-            secretAnswer: "Of course! You should already know this! 💘"
+            secretAnswer: "Silly! You already stole my heart! 💘"
         },
         second: {
             text: "If my love for you was a song, what would it sound like? 🎶",
@@ -29,7 +29,7 @@ const CONFIG = {
             nextBtn: "Next, my love ❤️"
         },
         third: {
-            text: "Will you be the love that fills my days and dreams? 💍✨",
+            text: "Will you be my Valentine?✨",
             yesBtn: "Forever and always! 💕",
             noBtn: "Only if you promise endless hugs and kisses! 💋"
         }
@@ -46,7 +46,8 @@ const CONFIG = {
     celebration: {
         title: "My Heart Is Yours, Always & Forever! 🎉💝",
         message: "Now, come claim your prize—endless kisses and the biggest cuddle ever! 🤗💋",
-        emojis: "🎁💖🤗💝💋❤️💕✨"
+        emojis: "🎁💖🤗💝💋❤️💕✨",
+        videoUrl: "https://www.youtube.com/shorts/CMEjfFE9MPY?feature=share" // Add your romantic video URL here
     },
 
     // Color scheme for a dreamy romantic theme
@@ -70,7 +71,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dqm62awzo/video/upload/v1739507752/myvalentine_ur1p98.mp3", // Your love song 🎶
+        musicUrl: "https://drive.google.com/file/d/1GX2HwXcgl44HTwYX4tGKnu36MFkcXBcI/view?usp=sharing", // Your love song 🎶
         startText: "🎵 Set the mood",
         stopText: "🔇 Pause our love song",
         volume: 0.6
