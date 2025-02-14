@@ -70,7 +70,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Your love song 🎶
+        musicUrl: "https://res.cloudinary.com/dqm62awzo/video/upload/v1739507211/JC_Home_Hobbies_Background_Valentines_hearts_with_music_4dnpcLnObw4_mp3cut.net_swoqj6.mp3", // Your love song 🎶
         startText: "🎵 Set the mood",
         stopText: "🔇 Pause our love song",
         volume: 0.6
